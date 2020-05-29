@@ -11,7 +11,7 @@ Full Text, BibText
 
 ### Online Experiments
 ##### Run our experiments online with Binder
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nlp-pucrs/fall-detection/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nlp-pucrs/fall-token-classifier/master)
 
 ### PUCRS A.I. in HealthCare
 This project belongs to [GIAS at PUCRS, Brazil](http://www.inf.pucrs.br/ia-saude/)
