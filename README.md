@@ -11,7 +11,7 @@ Full Text, BibText
 
 ### Online Experiments
 ##### Run our experiments online with Binder
-You need install Flair 0.4.3 ``pip install flair==0.4.3```
+You need install Flair 0.4.3 ```pip install flair==0.4.3```
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nlp-pucrs/fall-token-classifier/master)
 
 ### PUCRS A.I. in HealthCare
