@@ -1,5 +1,5 @@
 # fall-token-classifier
-Fall Detection in Clinical Notes usingLanguage Models and Token Classifier
+Fall Detection in Clinical Notes using Language Models and Token Classifier
 
 **Author:** Joaquim Santos, Henrique D. P. dos Santos and Renata Vieira
 
