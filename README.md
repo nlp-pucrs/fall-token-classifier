@@ -7,7 +7,7 @@ Fall Detection in Clinical Notes using Language Models and Token Classifier
 
 **Keywords:** Fall Detection, Clinical Notes, Language Model, Token  Classifier
 
-Full Text, BibText
+[Full Text](https://ieeexplore.ieee.org/document/9182900), [BibText](https://raw.githubusercontent.com/nlp-pucrs/fall-token-classifier/master/santos2020fall.bib)
 
 ### Online Experiments
 ##### Run our experiments online with Binder
